@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT SocialNetwork1 ANY>
+<!ELEMENT SocialNetwork (UserGroup+, Users+, Posts+, Followings+, Comments+, Messages+, Likes+, Verejtje+, Bllok+, HyrjeDalje+, Shitja*)>
+<!ELEMENT UserGroup (Prioriteti1) >
+<!ATTLIST UserGroup
+	Prioriteti ID #REQUIRED
+>
+<!ELEMENT Prioriteti1 (#PCDATA)>
+
+<!ELEMENT Users (email, username, password, emri, mbiemri, gjinia, qyteti, shteti, Data_e_lindjes, Mosha, Data_e_krijimit)>
+<!ATTLIST Users
+	user_id ID #REQUIRED
+	Prioriteti IDREF #REQUIRED
+>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT emri (#PCDATA)>
+<!ELEMENT mbiemri (#PCDATA)>
+<!ELEMENT gjinia (#PCDATA)>
+<!ELEMENT qyteti (#PCDATA)>
+<!ELEMENT shteti (#PCDATA)>
+<!ELEMENT Data_e_lindjes (#PCDATA)>
+<!ELEMENT Mosha (#PCDATA)>
+<!ELEMENT Data_e_krijimit (#PCDATA)>
+<!ELEMENT Posts (Pershkrimi, Lloji, Data_e_krijimit1)>
+<!ATTLIST Posts
+	post_id ID #REQUIRED
+	user_id IDREF #REQUIRED
+>
+<!ELEMENT Pershkrimi (#PCDATA)>
+<!ELEMENT Lloji (#PCDATA)>
+<!ELEMENT Data_e_krijimit1 (#PCDATA)>
+<!ELEMENT Followings (Date)>
+<!ATTLIST Followings
+	user_id IDREF #REQUIRED
+	following_id IDREF #REQUIRED
+>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Comments (Permbajtja, Data_e_komentimit, Data_e_ndryshimit)>
+<!ATTLIST Comments
+	comment_id ID #REQUIRED
+	post_id IDREF #REQUIRED
+	user_id IDREF #REQUIRED
+>
+<!ELEMENT Permbajtja (#PCDATA)>
+<!ELEMENT Data_e_komentimit (#PCDATA)>
+<!ELEMENT Data_e_ndryshimit (#PCDATA)>
+<!ELEMENT Messages (texti, Data_e_dergimit, ora_e_leximit)>
+<!ATTLIST Messages
+	message_id ID #REQUIRED
+	user_id_from IDREF #REQUIRED
+	user_id_to IDREF #REQUIRED
+>
+<!ELEMENT texti (#PCDATA)>
+<!ELEMENT Data_e_dergimit (#PCDATA)>
+<!ELEMENT ora_e_leximit (#PCDATA)>
+<!ELEMENT Likes (koha_e_liket)>
+<!ATTLIST Likes
+	likes_id ID #REQUIRED
+	user_id IDREF #REQUIRED
+	post_id IDREF #REQUIRED
+>
+<!ELEMENT koha_e_liket (#PCDATA)>
+<!ELEMENT Verejtje (data, Pershkrimi1)>
+<!ATTLIST Verejtje
+	IDVerejtja ID #REQUIRED
+	user_from IDREF #REQUIRED
+	user_to IDREF #REQUIRED
+>
+<!ELEMENT data (#PCDATA)>
+<!ELEMENT Pershkrimi1 (#PCDATA)>
+
+
+<!ELEMENT Bllok ( Data, Arsyeja)>
+<!ATTLIST Bllok
+	IDBllok ID #REQUIRED
+	user_from IDREF #REQUIRED
+	user_to IDREF #REQUIRED
+>
+<!ELEMENT Data (#PCDATA)>
+<!ELEMENT Arsyeja (#PCDATA)>
+
+
+<!ELEMENT HyrjeDalje ( Logout, Login)>
+<!ATTLIST HyrjeDalje
+	IDHyrjeDalje ID #REQUIRED
+	username IDREF #REQUIRED
+>
+<!ELEMENT Logout (#PCDATA)>
+<!ELEMENT Login (#PCDATA)>
+
+
+<!ELEMENT Shitja ( Koha , Produkti)>
+<!ATTLIST Shitja 
+	 user_ID  ID #REQUIRED
+	 add_ID CDATA #REQUIRED
+	 Username IDREF #REQUIRED>
+<!ELEMENT Koha (#PCDATA)>
+<!ELEMENT Produkti (#PCDATA)>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SocialNetwork1 SYSTEM "C:\Users\Flamur Jahiri\Desktop\SocialNetwork.dtd">
+<SocialNetwork1>
+	<SocialNetwork>
+	
+		<UserGroup Prioriteti="A1">
+			<Prioriteti1>USER</Prioriteti1>
+		</UserGroup>
+		<UserGroup Prioriteti="A2">
+			<Prioriteti1>ADMIN</Prioriteti1>
+		</UserGroup>
+		
+		
+		<Users Prioriteti="A2" user_id="B1">
+			<email>jahiriflamur@gmail.com</email>
+			<username>flamurjahiri</username>
+			<password>123456</password>
+			<emri>Flamur</emri>
+			<mbiemri>Jahiri</mbiemri>
+			<gjinia>M</gjinia>
+			<qyteti>Pr</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>18.08.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>1.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A2" user_id="B2">
+			<email>drilonpacarizi@gmail.com</email>
+			<username>drilonpacarizi</username>
+			<password>123456</password>
+			<emri>Drilon</emri>
+			<mbiemri>Pacarizi</mbiemri>
+			<gjinia>M</gjinia>
+			<qyteti>Pr</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>15.03.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>2.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B3">
+			<email>ardikrasniqi@gmail.com</email>
+			<username>ardikrasniqi</username>
+			<password>123456</password>
+			<emri>Ardi</emri>
+			<mbiemri>Krasniqi</mbiemri>
+			<gjinia>M</gjinia>
+			<qyteti>Terpeze e poshtme</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>20.07.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>3.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B4">
+			<email>trimmuharremi@gmail.com</email>
+			<username>trimmuharremi</username>
+			<password>123456</password>
+			<emri>Trim</emri>
+			<mbiemri>Muharremi</mbiemri>
+			<gjinia>M</gjinia>
+			<qyteti>Ferizaj</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>15.01.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>4.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B5">
+			<email>vullkantopanica@gmail.com</email>
+			<username>vullkantopanica</username>
+			<password>123456</password>
+			<emri>Flamur</emri>
+			<mbiemri>Jahiri</mbiemri>
+			<gjinia>M</gjinia>
+			<qyteti>Pr</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>23.02.1998</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>5.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B6">
+			<email>mn@gmail.com</email>
+			<username>mn</username>
+			<password>123456</password>
+			<emri>Mark</emri>
+			<mbiemri>Ndrecaj</mbiemri>
+			<gjinia>M</gjinia>
+			<qyteti>Kline</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>18.01.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>6.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B7">
+			<email>ab@gmail.com</email>
+			<username>antigonab</username>
+			<password>123456</password>
+			<emri>Antigona</emri>
+			<mbiemri>Bajraktari</mbiemri>
+			<gjinia>F</gjinia>
+			<qyteti>Pr</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>23.09.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>7.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B8">
+			<email>tringa-t@gmail.com</email>
+			<username>tringatahiri</username>
+			<password>123456</password>
+			<emri>Tringa</emri>
+			<mbiemri>Tahiri</mbiemri>
+			<gjinia>F</gjinia>
+			<qyteti>Peje</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>20.10.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>8.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B9">
+			<email>teuta_jonuzi@gmail.com</email>
+			<username>teuta123</username>
+			<password>123456</password>
+			<emri>Teuta</emri>
+			<mbiemri>Jonuzi</mbiemri>
+			<gjinia>F</gjinia>
+			<qyteti>Mitrovice</qyteti>
+			<shteti>Kosove</shteti>
+			<Data_e_lindjes>19.07.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>9.10.2019</Data_e_krijimit>
+		</Users>
+		<Users Prioriteti="A1" user_id="B10">
+			<email>magbuljasw@gmail.com</email>
+			<username>magbulja</username>
+			<password>123456</password>
+			<emri>Magbule</emri>
+			<mbiemri>Hajdari</mbiemri>
+			<gjinia>F</gjinia>
+			<qyteti>Kuks</qyteti>
+			<shteti>Shqiperi</shteti>
+			<Data_e_lindjes>23.11.1999</Data_e_lindjes>
+			<Mosha>19</Mosha>
+			<Data_e_krijimit>10.10.2019</Data_e_krijimit>
+		</Users>
+		
+		
+		<Posts post_id="P1" user_id="B1">
+			<Pershkrimi>Fotografia e pare</Pershkrimi>
+			<Lloji>foto</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P2" user_id="B5">
+			<Pershkrimi>video e pare</Pershkrimi>
+			<Lloji>video</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P3" user_id="B7">
+			<Pershkrimi>Video e pare</Pershkrimi>
+			<Lloji>video</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P4" user_id="B6">
+			<Pershkrimi>Fotografia e pare</Pershkrimi>
+			<Lloji>foto</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P5" user_id="B6">
+			<Pershkrimi>Fotografia e dyte</Pershkrimi>
+			<Lloji>foto</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P6" user_id="B1">
+			<Pershkrimi>Texti i pare</Pershkrimi>
+			<Lloji>text</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P7" user_id="B1">
+			<Pershkrimi>Texti i dyte</Pershkrimi>
+			<Lloji>text</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P8" user_id="B1">
+			<Pershkrimi>Texti i trete</Pershkrimi>
+			<Lloji>text</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P9" user_id="B2">
+			<Pershkrimi>Video e pare</Pershkrimi>
+			<Lloji>video</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P10" user_id="B5">
+			<Pershkrimi>foto e pare</Pershkrimi>
+			<Lloji>foto</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+		<Posts post_id="P11" user_id="B5">
+			<Pershkrimi>texti i pare</Pershkrimi>
+			<Lloji>text</Lloji>
+			<Data_e_krijimit1>03.09.2016</Data_e_krijimit1>
+		</Posts>
+
+
+		<Followings user_id="B1" following_id="B2">
+			<Date>18.08.2019</Date>
+		</Followings>
+		<Followings user_id="B4" following_id="B2">
+			<Date>20.08.2019</Date>
+		</Followings>
+		<Followings user_id="B1" following_id="B6">
+			<Date>21.08.2019</Date>
+		</Followings>
+		<Followings user_id="B6" following_id="B1">
+			<Date>12.09.2019</Date>
+		</Followings>
+		<Followings user_id="B3" following_id="B4">
+			<Date>11.08.2019</Date>
+		</Followings>
+		<Followings user_id="B4" following_id="B5">
+			<Date>17.06.2019</Date>
+		</Followings>
+		<Followings user_id="B2" following_id="B7">
+			<Date>12.01.2019</Date>
+		</Followings>
+		<Followings user_id="B1" following_id="B2">
+			<Date>18.07.2019</Date>
+		</Followings>
+		<Followings user_id="B8" following_id="B2">
+			<Date>15.03.2019</Date>
+		</Followings>
+		<Followings user_id="B7" following_id="B6">
+			<Date>17.01.2019</Date>
+		</Followings>
+		
+		
+		<Comments post_id="P1" user_id="B1" comment_id="C1">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>22.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>17.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P2" user_id="B1" comment_id="C2">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>30.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>01.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P2" user_id="B1" comment_id="C3">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>14.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>12.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P4" user_id="B5" comment_id="C4">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>15.09.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>01.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P5" user_id="B5" comment_id="C5">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>27.09.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>13.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P6" user_id="B1" comment_id="C6">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>24.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>15.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P7" user_id="B7" comment_id="C7">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>01.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>15.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P8" user_id="B5" comment_id="C8">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>04.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>02.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P9" user_id="B1" comment_id="C9">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>08.08.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>17.01.2019</Data_e_ndryshimit>
+		</Comments>
+		<Comments post_id="P10" user_id="B2" comment_id="C10">
+			<Permbajtja>testi</Permbajtja>
+			<Data_e_komentimit>22.01.2018</Data_e_komentimit>
+			<Data_e_ndryshimit>18.01.2019</Data_e_ndryshimit>
+		</Comments>
+		
+		
+		<Messages message_id="M1" user_id_to="B8" user_id_from="B4">
+			<texti>Pershendetje</texti>
+			<Data_e_dergimit>2016-09-04 01:00:00</Data_e_dergimit>
+			<ora_e_leximit>2016-09-04 01:10:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M2" user_id_to="B2" user_id_from="B5">
+			<texti>A po mi qon detyrat e kimise.</texti>
+			<Data_e_dergimit>2017-09-03 11:00:00</Data_e_dergimit>
+			<ora_e_leximit>2017-09-03 11:05:02</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M3" user_id_to="B1" user_id_from="B7">
+			<texti>Kur po dalum me msu ne biblotek.</texti>
+			<Data_e_dergimit>2017-10-03 12:01:00</Data_e_dergimit>
+			<ora_e_leximit>2017-10-03 12:02:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M4" user_id_to="B4" user_id_from="B7">
+			<texti>Kur mujna me u taku !</texti>
+			<Data_e_dergimit>2018-09-03 12:00:00</Data_e_dergimit>
+			<ora_e_leximit>2018-09-03 12:05:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M5" user_id_to="B6" user_id_from="B6">
+			<texti>Detyra 1 : Ku lindi Migjeni ?</texti>
+			<Data_e_dergimit>2018-09-03 02:00:57</Data_e_dergimit>
+			<ora_e_leximit>2018-09-03 02:01:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M6" user_id_to="B5" user_id_from="B4">
+			<texti>Ne rregull</texti>
+			<Data_e_dergimit>2018-05-08 13:00:00</Data_e_dergimit>
+			<ora_e_leximit>2018-05-09 12:15:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M7" user_id_to="B7" user_id_from="B1">
+			<texti>Neser</texti>
+			<Data_e_dergimit>2018-04-08 12:00:00</Data_e_dergimit>
+			<ora_e_leximit>2018-04-09 12:15:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M8" user_id_to="B1" user_id_from="B8">
+			<texti>3</texti>
+			<Data_e_dergimit>2019-01-01 00:00:00</Data_e_dergimit>
+			<ora_e_leximit>2019-01-031 00:00:01</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M9" user_id_to="B1" user_id_from="B1">
+			<texti>Hello</texti>
+			<Data_e_dergimit>2018-04-08 01:00:00</Data_e_dergimit>
+			<ora_e_leximit>2018-09-03 01:15:00</ora_e_leximit>
+		</Messages>
+		<Messages message_id="M10" user_id_to="B1" user_id_from="B1">
+			<texti>Pershendetje</texti>
+			<Data_e_dergimit>2019-01-02 12:00:00</Data_e_dergimit>
+			<ora_e_leximit>2019-01-02 12:15:00</ora_e_leximit>
+		</Messages>
+		
+		
+		<Likes post_id="P1" user_id="B1" likes_id="L1">
+			<koha_e_liket>22.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P2" user_id="B2" likes_id="L2">
+			<koha_e_liket>20.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P4" user_id="B4" likes_id="L3">
+			<koha_e_liket>02.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P1" user_id="B1" likes_id="L4">
+			<koha_e_liket>02.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P5" user_id="B1" likes_id="L5">
+			<koha_e_liket>05.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P6" user_id="B5" likes_id="L6">
+			<koha_e_liket>27.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P7" user_id="B6" likes_id="L7">
+			<koha_e_liket>08.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P8" user_id="B1" likes_id="L8">
+			<koha_e_liket>08.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P9" user_id="B1" likes_id="L9">
+			<koha_e_liket>10.01.2019</koha_e_liket>
+		</Likes>
+		<Likes post_id="P10" user_id="B1" likes_id="L10">
+			<koha_e_liket>11.01.2019</koha_e_liket>
+		</Likes>
+		
+		
+		<Verejtje user_to="B2" user_from="B1" IDVerejtja="V1">
+			<data>22.08.2019</data>
+			<Pershkrimi1>SPAM</Pershkrimi1>
+		</Verejtje>
+		<Verejtje user_to="B2" user_from="B8" IDVerejtja="V2">
+			<data>22.08.2019</data>
+			<Pershkrimi1>Report : Mosha jo e sakte</Pershkrimi1>
+		</Verejtje>
+		<Verejtje user_to="B2" user_from="B4" IDVerejtja="V3">
+			<data>22.08.2019</data>
+			<Pershkrimi1>Report : Komente banale</Pershkrimi1>
+		</Verejtje>
+		<Verejtje user_to="B2" user_from="B7" IDVerejtja="V4">
+			<data>22.08.2019</data>
+			<Pershkrimi1>Report : IP Adresa ka tentuar te log-in si user te tjere'</Pershkrimi1>
+		</Verejtje>
+		
+		
+		<Bllok IDBllok="BLL1" user_to="B6" user_from="B5">
+			<Data>01.08.2019</Data>
+			<Arsyeja>Foto banale</Arsyeja>
+		</Bllok>
+		<Bllok IDBllok="BLL2" user_to="B5" user_from="B7">
+			<Data>07.08.2019</Data>
+			<Arsyeja>Pengesa e tepert</Arsyeja>
+		</Bllok>
+		
+		
+		<HyrjeDalje username="B1" IDHyrjeDalje="HD1">
+			<Logout>22.08.2019</Logout>
+			<Login>22.08.2019</Login>
+		</HyrjeDalje>
+		
+		
+		<Shitja add_ID="AD1" Username="B1" user_ID="SH1">
+			<Koha>13.40</Koha>
+			<Produkti>PC</Produkti>
+		</Shitja>
+		<Shitja add_ID="AD2" Username="B2" user_ID="SH2">
+			<Koha>13.41</Koha>
+			<Produkti>Telefon</Produkti>
+		</Shitja>
+		<Shitja add_ID="AD3" Username="B3" user_ID="SH3">
+			<Koha>15.40</Koha>
+			<Produkti>Veture</Produkti>
+		</Shitja>
+		<Shitja add_ID="AD4" Username="B4" user_ID="SH4">
+			<Koha>12.30</Koha>
+			<Produkti>Libra</Produkti>
+		</Shitja>
+		<Shitja add_ID="AD5" Username="B5" user_ID="SH5">
+			<Koha>08.00</Koha>
+			<Produkti>Banese</Produkti>
+		</Shitja>
+		
+	</SocialNetwork>
+</SocialNetwork1>
+

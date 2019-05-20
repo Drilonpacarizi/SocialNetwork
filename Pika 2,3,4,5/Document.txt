@@ -1,0 +1,32 @@
+Funksion qe shfaq te dhena nga nje tabele
+create procedure getUsername
+@user_id int
+as
+BEGIN
+SELECT username
+FROM Users
+WHERE user_id = @user_id
+END
+go
+Funksion qe shfaq te dhena nga dy tabela
+create procedure shikoPostet 
+@username varchar(255)
+as
+BEGIN
+SELECT p.*
+FROM Posts p inner join Users u on p.user_id = u.user_id
+WHERE u.username = @username
+END
+GO
+Funksion qe kthen numer te plote
+create function Postet(@user_id int)
+RETURNS int
+AS
+Begin
+DECLARE @NR int;
+SELECT @NR = COUNT(p.user_id)
+			FROM Users u inner join Posts p on u.user_id = p.user_id
+			WHERE @user_id = u.user_id;
+RETURN @Nr;
+END;
+GO

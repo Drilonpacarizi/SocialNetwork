@@ -1,0 +1,613 @@
+{
+   "SocialNetwork": {
+      "UserGroup": [
+         {
+            "@Prioriteti": "A1",
+            "Prioriteti1": "USER"
+         },
+         {
+            "@Prioriteti": "A2",
+            "Prioriteti1": "ADMIN"
+         }
+      ],
+      "Users": [
+         {
+            "@Prioriteti": "A2",
+            "@user_id": "B1",
+            "email": "jahiriflamur@gmail.com",
+            "username": "flamurjahiri",
+            "password": "123456",
+            "emri": "Flamur",
+            "mbiemri": "Jahiri",
+            "gjinia": "M",
+            "qyteti": "Pr",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "18.08.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "1.10.2019"
+         },
+         {
+            "@Prioriteti": "A2",
+            "@user_id": "B2",
+            "email": "drilonpacarizi@gmail.com",
+            "username": "drilonpacarizi",
+            "password": "123456",
+            "emri": "Drilon",
+            "mbiemri": "Pacarizi",
+            "gjinia": "M",
+            "qyteti": "Pr",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "15.03.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "2.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B3",
+            "email": "ardikrasniqi@gmail.com",
+            "username": "ardikrasniqi",
+            "password": "123456",
+            "emri": "Ardi",
+            "mbiemri": "Krasniqi",
+            "gjinia": "M",
+            "qyteti": "Terpeze e poshtme",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "20.07.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "3.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B4",
+            "email": "trimmuharremi@gmail.com",
+            "username": "trimmuharremi",
+            "password": "123456",
+            "emri": "Trim",
+            "mbiemri": "Muharremi",
+            "gjinia": "M",
+            "qyteti": "Ferizaj",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "15.01.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "4.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B5",
+            "email": "vullkantopanica@gmail.com",
+            "username": "vullkantopanica",
+            "password": "123456",
+            "emri": "Flamur",
+            "mbiemri": "Jahiri",
+            "gjinia": "M",
+            "qyteti": "Pr",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "23.02.1998",
+            "Mosha": "19",
+            "Data_e_krijimit": "5.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B6",
+            "email": "mn@gmail.com",
+            "username": "mn",
+            "password": "123456",
+            "emri": "Mark",
+            "mbiemri": "Ndrecaj",
+            "gjinia": "M",
+            "qyteti": "Kline",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "18.01.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "6.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B7",
+            "email": "ab@gmail.com",
+            "username": "antigonab",
+            "password": "123456",
+            "emri": "Antigona",
+            "mbiemri": "Bajraktari",
+            "gjinia": "F",
+            "qyteti": "Pr",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "23.09.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "7.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B8",
+            "email": "tringa-t@gmail.com",
+            "username": "tringatahiri",
+            "password": "123456",
+            "emri": "Tringa",
+            "mbiemri": "Tahiri",
+            "gjinia": "F",
+            "qyteti": "Peje",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "20.10.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "8.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B9",
+            "email": "teuta_jonuzi@gmail.com",
+            "username": "teuta123",
+            "password": "123456",
+            "emri": "Teuta",
+            "mbiemri": "Jonuzi",
+            "gjinia": "F",
+            "qyteti": "Mitrovice",
+            "shteti": "Kosove",
+            "Data_e_lindjes": "19.07.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "9.10.2019"
+         },
+         {
+            "@Prioriteti": "A1",
+            "@user_id": "B10",
+            "email": "magbuljasw@gmail.com",
+            "username": "magbulja",
+            "password": "123456",
+            "emri": "Magbule",
+            "mbiemri": "Hajdari",
+            "gjinia": "F",
+            "qyteti": "Kuks",
+            "shteti": "Shqiperi",
+            "Data_e_lindjes": "23.11.1999",
+            "Mosha": "19",
+            "Data_e_krijimit": "10.10.2019"
+         }
+      ],
+      "Posts": [
+         {
+            "@post_id": "P1",
+            "@user_id": "B1",
+            "Pershkrimi": "Fotografia e pare",
+            "Lloji": "foto",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P2",
+            "@user_id": "B5",
+            "Pershkrimi": "video e pare",
+            "Lloji": "video",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P3",
+            "@user_id": "B7",
+            "Pershkrimi": "Video e pare",
+            "Lloji": "video",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P4",
+            "@user_id": "B6",
+            "Pershkrimi": "Fotografia e pare",
+            "Lloji": "foto",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P5",
+            "@user_id": "B6",
+            "Pershkrimi": "Fotografia e dyte",
+            "Lloji": "foto",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P6",
+            "@user_id": "B1",
+            "Pershkrimi": "Texti i pare",
+            "Lloji": "text",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P7",
+            "@user_id": "B1",
+            "Pershkrimi": "Texti i dyte",
+            "Lloji": "text",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P8",
+            "@user_id": "B1",
+            "Pershkrimi": "Texti i trete",
+            "Lloji": "text",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P9",
+            "@user_id": "B2",
+            "Pershkrimi": "Video e pare",
+            "Lloji": "video",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P10",
+            "@user_id": "B5",
+            "Pershkrimi": "foto e pare",
+            "Lloji": "foto",
+            "Data_e_krijimit1": "03.09.2016"
+         },
+         {
+            "@post_id": "P11",
+            "@user_id": "B5",
+            "Pershkrimi": "texti i pare",
+            "Lloji": "text",
+            "Data_e_krijimit1": "03.09.2016"
+         }
+      ],
+      "Followings": [
+         {
+            "@user_id": "B1",
+            "@following_id": "B2",
+            "Date": "18.08.2019"
+         },
+         {
+            "@user_id": "B4",
+            "@following_id": "B2",
+            "Date": "20.08.2019"
+         },
+         {
+            "@user_id": "B1",
+            "@following_id": "B6",
+            "Date": "21.08.2019"
+         },
+         {
+            "@user_id": "B6",
+            "@following_id": "B1",
+            "Date": "12.09.2019"
+         },
+         {
+            "@user_id": "B3",
+            "@following_id": "B4",
+            "Date": "11.08.2019"
+         },
+         {
+            "@user_id": "B4",
+            "@following_id": "B5",
+            "Date": "17.06.2019"
+         },
+         {
+            "@user_id": "B2",
+            "@following_id": "B7",
+            "Date": "12.01.2019"
+         },
+         {
+            "@user_id": "B1",
+            "@following_id": "B2",
+            "Date": "18.07.2019"
+         },
+         {
+            "@user_id": "B8",
+            "@following_id": "B2",
+            "Date": "15.03.2019"
+         },
+         {
+            "@user_id": "B7",
+            "@following_id": "B6",
+            "Date": "17.01.2019"
+         }
+      ],
+      "Comments": [
+         {
+            "@post_id": "P1",
+            "@user_id": "B1",
+            "@comment_id": "C1",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "22.08.2018",
+            "Data_e_ndryshimit": "17.01.2019"
+         },
+         {
+            "@post_id": "P2",
+            "@user_id": "B1",
+            "@comment_id": "C2",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "30.08.2018",
+            "Data_e_ndryshimit": "01.01.2019"
+         },
+         {
+            "@post_id": "P2",
+            "@user_id": "B1",
+            "@comment_id": "C3",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "14.08.2018",
+            "Data_e_ndryshimit": "12.01.2019"
+         },
+         {
+            "@post_id": "P4",
+            "@user_id": "B5",
+            "@comment_id": "C4",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "15.09.2018",
+            "Data_e_ndryshimit": "01.01.2019"
+         },
+         {
+            "@post_id": "P5",
+            "@user_id": "B5",
+            "@comment_id": "C5",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "27.09.2018",
+            "Data_e_ndryshimit": "13.01.2019"
+         },
+         {
+            "@post_id": "P6",
+            "@user_id": "B1",
+            "@comment_id": "C6",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "24.08.2018",
+            "Data_e_ndryshimit": "15.01.2019"
+         },
+         {
+            "@post_id": "P7",
+            "@user_id": "B7",
+            "@comment_id": "C7",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "01.08.2018",
+            "Data_e_ndryshimit": "15.01.2019"
+         },
+         {
+            "@post_id": "P8",
+            "@user_id": "B5",
+            "@comment_id": "C8",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "04.08.2018",
+            "Data_e_ndryshimit": "02.01.2019"
+         },
+         {
+            "@post_id": "P9",
+            "@user_id": "B1",
+            "@comment_id": "C9",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "08.08.2018",
+            "Data_e_ndryshimit": "17.01.2019"
+         },
+         {
+            "@post_id": "P10",
+            "@user_id": "B2",
+            "@comment_id": "C10",
+            "Permbajtja": "testi",
+            "Data_e_komentimit": "22.01.2018",
+            "Data_e_ndryshimit": "18.01.2019"
+         }
+      ],
+      "Messages": [
+         {
+            "@message_id": "M1",
+            "@user_id_to": "B8",
+            "@user_id_from": "B4",
+            "texti": "Pershendetje",
+            "Data_e_dergimit": "2016-09-04 01:00:00",
+            "ora_e_leximit": "2016-09-04 01:10:00"
+         },
+         {
+            "@message_id": "M2",
+            "@user_id_to": "B2",
+            "@user_id_from": "B5",
+            "texti": "A po mi qon detyrat e kimise.",
+            "Data_e_dergimit": "2017-09-03 11:00:00",
+            "ora_e_leximit": "2017-09-03 11:05:02"
+         },
+         {
+            "@message_id": "M3",
+            "@user_id_to": "B1",
+            "@user_id_from": "B7",
+            "texti": "Kur po dalum me msu ne biblotek.",
+            "Data_e_dergimit": "2017-10-03 12:01:00",
+            "ora_e_leximit": "2017-10-03 12:02:00"
+         },
+         {
+            "@message_id": "M4",
+            "@user_id_to": "B4",
+            "@user_id_from": "B7",
+            "texti": "Kur mujna me u taku !",
+            "Data_e_dergimit": "2018-09-03 12:00:00",
+            "ora_e_leximit": "2018-09-03 12:05:00"
+         },
+         {
+            "@message_id": "M5",
+            "@user_id_to": "B6",
+            "@user_id_from": "B6",
+            "texti": "Detyra 1 : Ku lindi Migjeni ?",
+            "Data_e_dergimit": "2018-09-03 02:00:57",
+            "ora_e_leximit": "2018-09-03 02:01:00"
+         },
+         {
+            "@message_id": "M6",
+            "@user_id_to": "B5",
+            "@user_id_from": "B4",
+            "texti": "Ne rregull",
+            "Data_e_dergimit": "2018-05-08 13:00:00",
+            "ora_e_leximit": "2018-05-09 12:15:00"
+         },
+         {
+            "@message_id": "M7",
+            "@user_id_to": "B7",
+            "@user_id_from": "B1",
+            "texti": "Neser",
+            "Data_e_dergimit": "2018-04-08 12:00:00",
+            "ora_e_leximit": "2018-04-09 12:15:00"
+         },
+         {
+            "@message_id": "M8",
+            "@user_id_to": "B1",
+            "@user_id_from": "B8",
+            "texti": "3",
+            "Data_e_dergimit": "2019-01-01 00:00:00",
+            "ora_e_leximit": "2019-01-031 00:00:01"
+         },
+         {
+            "@message_id": "M9",
+            "@user_id_to": "B1",
+            "@user_id_from": "B1",
+            "texti": "Hello",
+            "Data_e_dergimit": "2018-04-08 01:00:00",
+            "ora_e_leximit": "2018-09-03 01:15:00"
+         },
+         {
+            "@message_id": "M10",
+            "@user_id_to": "B1",
+            "@user_id_from": "B1",
+            "texti": "Pershendetje",
+            "Data_e_dergimit": "2019-01-02 12:00:00",
+            "ora_e_leximit": "2019-01-02 12:15:00"
+         }
+      ],
+      "Likes": [
+         {
+            "@post_id": "P1",
+            "@user_id": "B1",
+            "@likes_id": "L1",
+            "koha_e_liket": "22.01.2019"
+         },
+         {
+            "@post_id": "P2",
+            "@user_id": "B2",
+            "@likes_id": "L2",
+            "koha_e_liket": "20.01.2019"
+         },
+         {
+            "@post_id": "P4",
+            "@user_id": "B4",
+            "@likes_id": "L3",
+            "koha_e_liket": "02.01.2019"
+         },
+         {
+            "@post_id": "P1",
+            "@user_id": "B1",
+            "@likes_id": "L4",
+            "koha_e_liket": "02.01.2019"
+         },
+         {
+            "@post_id": "P5",
+            "@user_id": "B1",
+            "@likes_id": "L5",
+            "koha_e_liket": "05.01.2019"
+         },
+         {
+            "@post_id": "P6",
+            "@user_id": "B5",
+            "@likes_id": "L6",
+            "koha_e_liket": "27.01.2019"
+         },
+         {
+            "@post_id": "P7",
+            "@user_id": "B6",
+            "@likes_id": "L7",
+            "koha_e_liket": "08.01.2019"
+         },
+         {
+            "@post_id": "P8",
+            "@user_id": "B1",
+            "@likes_id": "L8",
+            "koha_e_liket": "08.01.2019"
+         },
+         {
+            "@post_id": "P9",
+            "@user_id": "B1",
+            "@likes_id": "L9",
+            "koha_e_liket": "10.01.2019"
+         },
+         {
+            "@post_id": "P10",
+            "@user_id": "B1",
+            "@likes_id": "L10",
+            "koha_e_liket": "11.01.2019"
+         }
+      ],
+      "Verejtje": [
+         {
+            "@user_to": "B2",
+            "@user_from": "B1",
+            "@IDVerejtja": "V1",
+            "data": "22.08.2019",
+            "Pershkrimi1": "SPAM"
+         },
+         {
+            "@user_to": "B2",
+            "@user_from": "B8",
+            "@IDVerejtja": "V2",
+            "data": "22.08.2019",
+            "Pershkrimi1": "Report : Mosha jo e sakte"
+         },
+         {
+            "@user_to": "B2",
+            "@user_from": "B4",
+            "@IDVerejtja": "V3",
+            "data": "22.08.2019",
+            "Pershkrimi1": "Report : Komente banale"
+         },
+         {
+            "@user_to": "B2",
+            "@user_from": "B7",
+            "@IDVerejtja": "V4",
+            "data": "22.08.2019",
+            "Pershkrimi1": "Report : IP Adresa ka tentuar te log-in si user te tjere'"
+         }
+      ],
+      "Bllok": [
+         {
+            "@IDBllok": "BLL1",
+            "@user_to": "B6",
+            "@user_from": "B5",
+            "Data": "01.08.2019",
+            "Arsyeja": "Foto banale"
+         },
+         {
+            "@IDBllok": "BLL2",
+            "@user_to": "B5",
+            "@user_from": "B7",
+            "Data": "07.08.2019",
+            "Arsyeja": "Pengesa e tepert"
+         }
+      ],
+      "HyrjeDalje": {
+         "@username": "B1",
+         "@IDHyrjeDalje": "HD1",
+         "Logout": "22.08.2019",
+         "Login": "22.08.2019"
+      },
+      "Shitja": [
+         {
+            "@add_ID": "AD1",
+            "@Username": "B1",
+            "@user_ID": "SH1",
+            "Koha": "13.40",
+            "Produkti": "PC"
+         },
+         {
+            "@add_ID": "AD2",
+            "@Username": "B2",
+            "@user_ID": "SH2",
+            "Koha": "13.41",
+            "Produkti": "Telefon"
+         },
+         {
+            "@add_ID": "AD3",
+            "@Username": "B3",
+            "@user_ID": "SH3",
+            "Koha": "15.40",
+            "Produkti": "Veture"
+         },
+         {
+            "@add_ID": "AD4",
+            "@Username": "B4",
+            "@user_ID": "SH4",
+            "Koha": "12.30",
+            "Produkti": "Libra"
+         },
+         {
+            "@add_ID": "AD5",
+            "@Username": "B5",
+            "@user_ID": "SH5",
+            "Koha": "08.00",
+            "Produkti": "Banese"
+         }
+      ]
+   }
+}
+
